@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aditya137x
 - 👀 I’m interested in building Beautiful Apps
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Flutter and Web devlopement
 - 💞️ I’m looking to collaborate on any Open Source project
 - 📫 How to reach me - Meet me in the Shadows
 
